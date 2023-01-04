@@ -7,5 +7,9 @@ This theme is based on the current [obsidian gruvbox](https://github.com/insanum
 ## DARK
 ![Dark preview](img/dark.png)
 
+| --------------- | --------------- |
+| Accent Color    | #7daea3         |
+| --------------- | --------------- |
+
 ## LIGHT
 ![Light preview](img/light.png)
