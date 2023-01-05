@@ -31,3 +31,5 @@ Some people have told me that the light theme tones are too yellow. Since the th
 }
 ```
 Then reload the CSS snippets and activate it.
+
+![Light mod preview](img/light-mod.png)
