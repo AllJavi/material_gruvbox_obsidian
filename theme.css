@@ -70,9 +70,9 @@
 
 body
 {
-    --accent-h: 12; /* --faded-red #9d0006 */
-    --accent-s: 107%;
-    --accent-l: 32%;
+    --accent-h: 166; /* --faded-red #9d0006 */
+    --accent-s: 23%;
+    --accent-l: 58%;
 
     --link-decoration:                none;
     --link-decoration-hover:          none;
