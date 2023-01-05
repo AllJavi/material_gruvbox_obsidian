@@ -11,7 +11,7 @@ This theme is based on the current [obsidian gruvbox](https://github.com/insanum
 ![Light preview](img/light.png)
 
 ### Change background colors
-Some people have told me that the light theme tones are too yellow. Since the theme is already set, I won't change it, but you can create a CSS snippet to fix it if you want to. Go to `Settings -> Apparence -> CSS snippets (at the bottom)`, click the folder icon and create a file with the name `light-background` and add the following content:
+Some people have told me that the light theme tones are too yellow. Since the theme is already set, I won't change it, but you can create a CSS snippet to fix it if you want to. Go to `Settings -> Apparence -> CSS snippets (at the bottom)`, click the folder icon and create a file with the name `light-background.css` and add the following content:
 ```
 :root {
     --light0-hard_x:    247,243,238; /* #f7f3ee */
