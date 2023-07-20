@@ -239,7 +239,7 @@ body
     --h6-color:                      var(--faded-purple);
 
     --text-highlight-bg:             var(--faded-yellow);
-    --text-highlight-fg:             var(--dark-text);
+    --text-highlight-fg:             var(--light0-hard);
 
     --text-accent:                   var(--neutral-yellow);
     --text-accent-hover:             var(--faded-yellow);
@@ -500,3 +500,12 @@ pre[class*="language-"]
     color: var(--bright-red);
 }
 
+.cm-line .cm-strong
+{
+color: var(--bold-color) !important;
+}
+
+.cm-line .cm-em
+{
+color: var(--italic-color) !important;
+}
