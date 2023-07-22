@@ -229,7 +229,7 @@ settings:
     title: Text Colors
     type: heading
     level: 3
-    collapsed: false	
+    collapsed: true
 	
   - id: dark-text
     title: Dark Text
