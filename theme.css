@@ -1,8 +1,8 @@
 
 :root
 {
-	/* DEFAULTS */
-	--dark0-hard_x:     29,32,33;
+    /* DEFAULTS */
+    --dark0-hard_x:     29,32,33;
     --dark0-hard:       rgb(var(--dark0-hard_x));
     --dark0_x:          40,40,40;
     --dark0:            rgb(var(--dark0_x));
